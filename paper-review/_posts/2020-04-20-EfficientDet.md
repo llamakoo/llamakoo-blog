@@ -3,8 +3,10 @@ layout: post
 title: EfficientDet
 date: 2020-04-20 20:00
 comments: true
-external-url:
-tags: [detection]
+categories: [paper-review]
+tags: [detector]
+related_post:
+    - /blog/_posts/2020-04-17-EfficientNet.md/
 ---
 > Title : EfficientNet, Scalable and Efficient Object Detection
 

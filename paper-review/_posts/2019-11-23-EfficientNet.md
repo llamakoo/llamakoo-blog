@@ -3,7 +3,8 @@ layout: post
 title: EfficientNet
 date: 2020-04-17 20:00
 comments: true
-external-url:
+categories: [paper-review]
+tags: [deeplearning]
 ---
 > Title : EfficientNet, Rethinking Model Scaling for Convolutional Neural Network
 
