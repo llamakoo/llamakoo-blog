@@ -109,7 +109,7 @@ An objective function of image completion network
 
 - Figure4를 보면, 왼쪽부터 원본 이미지, 입력 이미지, 생성된 edge map, inpainted 이미지의 결과를 보여준다.
 - 또한 정량적 평가로 SSIM, PSNR, FID 수치를 비교하였으며 기타 알고리즘 대비 높은 수치를 보여준다.
-- 저자들은 또한 여러가지 ablation 평가를 진행하였는데 간단히 종합해보면
+- 저자들은 또한 여러가지 ablation 평가를 진행하였는데 간단히 종합해보면,
     - edge 정보가 주어질 때 inpainting도 더욱 효과적인 결과를 보여준다.
     - edge map에 edge 성분이 너무 과하여도 너무 적어도 좋지 않으며, 적당한 edge 성분일 때 좋은 결과를 보여준다.
     - Canny edge detector가 아닌 기타 edge detector를 사용하였지만 결과에서 큰 차이를 보이지 않았다.
