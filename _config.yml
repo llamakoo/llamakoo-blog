@@ -176,7 +176,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                bluellama_programmer
+disqus:                llamakoo-github-io
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
